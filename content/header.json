@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Detectores de Qualidade você encontra aqui!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -10,7 +10,7 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "Loja Oficial Gold Detectores",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
