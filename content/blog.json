@@ -9,10 +9,6 @@
     },
     {
       "type": "page-title"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
