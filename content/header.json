@@ -6,10 +6,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Loja Oficial Gold Detectores",
         "link": "/posts/esta-loja-e-um-pwa"
       }
