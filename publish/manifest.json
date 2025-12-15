@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.14037ebc985abf69120d6ac24008ea81.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.90329f5a8a9860e835c2c904ff0df627.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.1395a8b870d20c1b9ab9c2d131ca609e.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.93be9bcf9e5458cdf14f12adc77e362a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.362355cc842b27f13177bb0945b1071e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Gold Detectores",
+  "short_name": "golddetectores",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Site Oficinal da Gold Detectores",
+  "background_color": "#ffffff",
+  "theme_color": "#cbaa00"
+}
