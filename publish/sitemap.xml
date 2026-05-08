@@ -182,13 +182,13 @@
     </url>
   
     <url>
-      <loc>https://golddetectores.netlify.app/pages/privacidade</loc>
+      <loc>https://golddetectores.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://golddetectores.netlify.app/pages/trocas</loc>
+      <loc>https://golddetectores.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -212,15 +212,15 @@
     </url>
   
     <url>
-      <loc>https://golddetectores.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://golddetectores.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://golddetectores.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
